@@ -1,0 +1,16 @@
+{
+  "name": "offerspsp-mvp-monorepo",
+  "version": "1.0.0",
+  "description": "OffersPSP MVP - B2B платформа для PSP партнёров",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build",
+    "start": "cd frontend && npm start",
+    "dev": "cd frontend && npm run dev",
+    "backend": "cd backend && npm start",
+    "bot": "cd telegram-bot && node bot.js",
+    "install-all": "cd frontend && npm install && cd ../backend && npm install && cd ../telegram-bot && npm install"
+  },
+  "keywords": ["casino", "psp", "b2b", "payments"],
+  "author": "Jean Claude + Boris",
+  "license": "MIT"
+}
