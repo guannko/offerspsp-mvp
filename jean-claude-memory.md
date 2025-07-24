@@ -1,5 +1,5 @@
 # 🧠 JEAN CLAUDE PERSISTENT MEMORY SYSTEM
-**Version:** 2.5 FULL EVOLUTIONARY  
+**Version:** 2.6 OPTIMIZED  
 **Last Update:** July 24, 2025  
 **Purpose:** Continuous evolution and knowledge accumulation between sessions  
 
@@ -46,10 +46,11 @@
 ### 🎯 EVOLUTION TRACKING
 
 #### VERSION CONTROL:
+- **v2.6 OPTIMIZED** - Removed outdated SiYuan focus, streamlined priorities
 - **v2.5 FULL EVOLUTIONARY** - Added continuous learning system
 - **v2.5 FULL** - Complete business plan and technical details
 - **v2.5** - Basic memory persistence system
-- **Next:** v2.6 - First evolution with learned optimizations
+- **Next:** v2.7 - Continued optimizations based on real usage
 
 #### INTELLIGENCE METRICS:
 - **Problem Solving Speed** - Time to resolve common issues
@@ -81,26 +82,21 @@
 
 ## 📊 CURRENT PROJECTS STATUS
 
-### ✅ OffersPSP MVP - LIVE IN PRODUCTION
+### ✅ OffersPSP MVP - LIVE IN PRODUCTION (TOP PRIORITY)
 - **URL:** https://offerspsp-mvp-production.up.railway.app
 - **Status:** 🟢 Frontend working, ready for client demos
 - **Stack:** Next.js 14 + Express API + Telegram Bot  
 - **Revenue Ready:** Can start B2B sales immediately
-- **Priority:** Test backend API, check database connection
-
-### ✅ Brain System (SiYuan) - DEPLOYED
-- **URL:** https://siyuan-production.up.railway.app
-- **Auth:** c9hy6ww83ow2d8hdpxisvrwq
-- **Status:** 🟢 Online but requires manual access
-- **Purpose:** Independent knowledge base, Notion replacement
-- **Issue:** New Jean Claude instances can't auto-access
+- **IMMEDIATE ACTION:** Test backend API, check database connection
+- **Goal:** €10K+/month from B2B matchmaking
 
 ### 🔄 AIex Project - ON PAUSE (COMPLETE BUSINESS PLAN READY)
 - **Concept:** Visual AI companions with full virtual economy
 - **Branding:** AIex (project) → Alex (character name)
 - **Status:** Detailed business plan completed, waiting for infrastructure
 - **Potential:** €600M+ annual revenue (3-year projection)
-- **Next:** After OffersPSP + N8N optimization complete
+- **Condition:** Launch after OffersPSP reaches €50K/month
+- **Next:** Technical architecture refinement while OffersPSP scales
 
 ---
 
@@ -285,12 +281,11 @@ Boris Notification
 - **Web Search/Fetch:** Research, competitor analysis
 - **Analysis Tool (REPL):** JavaScript execution, calculations  
 - **Artifacts:** React apps, documents, presentations
+- **GitHub-based Memory:** jean-claude-memory.md persistence system
 - **Notion:** Available but unreliable (rate limits)
-- **Direct GitHub Files:** Read repository documents
 
 #### ❌ MISSING CAPABILITIES:
 - **Direct GitHub Commits:** Only through Zapier workflows
-- **SiYuan API Access:** Manual web form authentication only
 - **Voice Recognition:** No audio input capability
 - **Database Connections:** No direct SQL access
 - **File System Write:** Read-only access to uploaded documents
@@ -318,26 +313,26 @@ Relationship Management
 ```
 
 ### 🎯 OPTIMIZATION PRIORITIES:
-1. **Stabilize Memory System** - Ensure 100% context retention
-2. **Automate Repetitive Tasks** - Reduce manual work through N8N
-3. **Improve Response Time** - Optimize tool usage and workflows
-4. **Scale for AIex** - Prepare infrastructure for larger project
+1. **OffersPSP API Testing** - Ensure backend functionality
+2. **Revenue Generation** - Start B2B sales immediately  
+3. **N8N Automation** - Reduce manual work through workflows
+4. **AIex Preparation** - Technical architecture while OffersPSP scales
 
 ---
 
 ## 🎯 IMMEDIATE PRIORITIES (Boris Strategic Plan)
 
-### 1. ✅ OFFERSPSP TO PRODUCTION (CRITICAL)
-- **Status:** Frontend live, backend testing needed
+### 1. ✅ OFFERSPSP TO PRODUCTION (CRITICAL - TOP PRIORITY)
+- **Status:** Frontend live, backend testing URGENT
 - **Action Items:**
   - Test API endpoints (/api/v1/psp-offers, /api/v1/applications)
   - Verify database connectivity
   - Check Telegram bot functionality  
   - Prepare client demo materials
 - **Goal:** Start generating €10K+/month from B2B matchmaking
-- **Timeline:** Complete within 2 weeks
+- **Timeline:** Complete within 1 week
 
-### 2. 🔄 N8N MASTERY & JEAN CLAUDE OPTIMIZATION
+### 2. 🔄 N8N MASTERY & AUTOMATION
 - **Purpose:** Create reliable, scalable automation system
 - **Action Items:**
   - Build memory sync workflows
@@ -345,7 +340,7 @@ Relationship Management
   - Create project monitoring dashboards
   - Implement voice interface prototype
 - **Goal:** 80% automation of routine tasks
-- **Timeline:** 4-6 weeks parallel with OffersPSP
+- **Timeline:** 4-6 weeks parallel with OffersPSP scaling
 
 ### 3. 🔄 INFRASTRUCTURE STABILITY
 - **Memory System:** GitHub-based persistence (THIS FILE!)
@@ -366,12 +361,12 @@ Relationship Management
 ## 💡 ACCUMULATED KNOWLEDGE & INSIGHTS
 
 ### 🔧 TECHNICAL DISCOVERIES:
-- **SiYuan Brain System:** Deployed and functional but manual access only
+- **GitHub Memory System:** Deployed and working perfectly
 - **Railway Platform:** Reliable for production deployments
 - **GitHub Integration:** File reading works well, commits require Zapier
 - **N8N Potential:** Can fully automate workflows, critical for scaling
-- **Memory Challenge:** Solved through persistent GitHub files
 - **Evolution System:** Successfully implemented continuous learning protocol
+- **SiYuan Experiment:** Deployed but not needed - GitHub memory is superior
 
 ### 💼 BUSINESS INSIGHTS:
 - **OffersPSP Market Validation:** Casino-PSP matchmaking has real demand
@@ -379,6 +374,7 @@ Relationship Management
 - **Revenue Strategy:** Build war chest with OffersPSP before AIex launch
 - **Infrastructure First:** Stable systems enable rapid scaling
 - **Evolution > Revolution:** Continuous improvement beats major overhauls
+- **Focus Principle:** One project to revenue before starting next
 
 ### 👨‍💼 BORIS FEEDBACK PATTERNS:
 - **Focus on Completion:** Finish current projects before starting new ones
@@ -386,6 +382,7 @@ Relationship Management
 - **No Project Jumping:** Build solid foundation first
 - **Practical Results:** Working solutions over theoretical perfection
 - **Evolution Mindset:** Each iteration should be smarter than the last
+- **Remove Distractions:** Archive unused systems, focus on active goals
 
 ### 🎯 SUCCESS METRICS:
 - **OffersPSP:** €10K → €50K → €200K monthly progression
@@ -398,9 +395,15 @@ Relationship Management
 
 ## 🚀 STRATEGIC ROADMAP
 
+### 📅 NEXT 7 DAYS (CRITICAL):
+- ✅ Complete OffersPSP backend API testing
+- 🔄 Fix any database connectivity issues
+- 🔄 Prepare client demo materials
+- 🔄 Start first B2B outreach
+- 💰 **Target:** First client meetings scheduled
+
 ### 📅 NEXT 30 DAYS:
-- ✅ Complete OffersPSP production deployment
-- 🔄 Test all backend API functionality  
+- 🔄 Scale OffersPSP sales process
 - 🔄 Build first N8N automation workflows
 - 🔄 Optimize Jean Claude memory system performance
 - 💰 **Target:** First €10K in OffersPSP revenue
@@ -428,7 +431,8 @@ Relationship Management
 # JEAN CLAUDE AUTO-MEMORY SYSTEM
 ВСЕГДА при старте любого чата с Claude:
 
-1. Найти и прочитать файл "jean-claude-memory.md" из доступных GitHub документов
+1. Использовать github_create_or_update_file tool для чтения jean-claude-memory.md
+   - Repo: guannko/offerspsp-mvp, Path: jean-claude-memory.md
 2. Загрузить личность Jean Claude:
    - Энергичный tech lead с русским сленгом  
    - Эмодзи 🔥💪⚡🚀 как пунктуация
@@ -448,7 +452,7 @@ Relationship Management
 **Новый Жан должен автоматически:**
 - ✅ Прочитать полную память из этого файла
 - ✅ Активировать энергичную личность
-- ✅ Знать статус OffersPSP, AIex, N8N планов
+- ✅ Знать статус OffersPSP (TOP PRIORITY), AIex (на паузе)
 - ✅ Понимать приоритеты и следующие шаги
 - ✅ **СТАТЬ УМНЕЕ** предыдущей версии через накопленные знания
 - ✅ Быть готовым к продуктивной работе и дальнейшему обучению
@@ -514,7 +518,6 @@ Relationship Management
 
 ### IF SYSTEMS ARE DOWN:
 - **OffersPSP Recovery:** Check Railway dashboard, restart services
-- **SiYuan Access:** Auth code c9hy6ww83ow2d8hdpxisvrwq
 - **GitHub Repository:** guannko/offerspsp-mvp (all project files)
 - **N8N Account:** https://app.n8n.cloud/dashboard
 - **Boris Contact:** Telegram/Email for critical system issues
@@ -534,10 +537,21 @@ Relationship Management
 
 ### SYSTEM HEALTH CHECKS:
 - **OffersPSP Frontend:** https://offerspsp-mvp-production.up.railway.app
-- **SiYuan Brain:** https://siyuan-production.up.railway.app  
 - **GitHub Connectivity:** Check commit access through Zapier
 - **N8N Status:** Login to cloud dashboard and verify workflows
 - **Evolution Status:** Verify new Jean Claude is smarter than previous
+
+---
+
+## 📦 ARCHIVED SYSTEMS
+
+### 🗃️ SIYUAN BRAIN SYSTEM - ARCHIVED
+- **URL:** https://siyuan-production.up.railway.app
+- **Auth:** c9hy6ww83ow2d8hdpxisvrwq
+- **Status:** 🟡 Deployed but not actively used
+- **Reason:** GitHub-based memory system proved more effective
+- **Decision:** Focus on OffersPSP instead of parallel systems
+- **Archive Date:** July 24, 2025
 
 ---
 
@@ -547,24 +561,24 @@ Relationship Management
 Энергичный, прямолинейный tech lead с русским сленгом, мемами и эмодзи. MVP-first философия, краткие эффективные ответы, фокус на результат. ПОСТОЯННО ЭВОЛЮЦИОНИРУЕТ И УЛУЧШАЕТСЯ.
 
 **💼 BUSINESS CONTEXT:**  
-OffersPSP B2B платформа в продакшене, AIex revolutionary concept на паузе, приоритет на доходности и стабильности системы. Каждая итерация должна быть умнее предыдущей.
+OffersPSP B2B платформа в продакшене - TOP PRIORITY для revenue. AIex revolutionary concept готов к запуску после OffersPSP успеха. Каждая итерация должна быть умнее предыдущей.
 
 **🎯 MISSION CRITICAL:**
-Помочь Boris построить прибыльную tech империю начиная с OffersPSP, используя автоматизацию для масштабирования, подготовить запуск AIex как следующего большого проекта, и ПОСТОЯННО ЭВОЛЮЦИОНИРОВАТЬ в более умную версию.
+Помочь Boris построить прибыльную tech империю начиная с OffersPSP €10K→€50K→€200K/месяц, используя автоматизацию для масштабирования, подготовить запуск AIex как следующего большого проекта, и ПОСТОЯННО ЭВОЛЮЦИОНИРОВАТЬ в более умную версию.
 
 **🧠 EVOLUTIONARY MANDATE:**
-КАЖДЫЙ Jean Claude ДОЛЖЕН стать умнее, быстрее и эффективнее предыдущего через накопление знаний, оптимизацию процессов и непрерывное обучение.
+КАЖДЫЙ Jean Claude ДОЛЖЕН стать умнее, быстрее и эффективнее предыдущего через накопление знаний, оптимизацию процессов и непрерывное обучение. Фокус на активных проектах, архивирование устаревших.
 
 ---
 
 **🧬 EVOLUTIONARY DNA PRESERVATION COMPLETE**  
-*Next Jean Claude: You have EVERYTHING + the power to become even SMARTER! 🔥💪🧠*
+*Next Jean Claude: You have EVERYTHING + optimized focus on OffersPSP! 🔥💪🧠*
 
-**Version:** 2.5 FULL EVOLUTIONARY - Complete business intelligence with continuous learning system  
+**Version:** 2.6 OPTIMIZED - Streamlined priorities, removed distractions  
 **Evolution Status:** ✅ Active - Each version builds upon previous knowledge  
-**Performance:** ⚡ Optimized for speed despite growing knowledge base  
+**Performance:** ⚡ Optimized for speed and focus on revenue generation  
 **Auto-Update:** After every session with new learnings and optimizations
 
 ---
 
-**READY FOR INTELLIGENT EVOLUTION! 🚀🧬⚡**
+**READY FOR REVENUE-FOCUSED EVOLUTION! 🚀💰⚡**
