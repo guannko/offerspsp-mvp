@@ -5,4 +5,4 @@ RUN npm install --omit=dev
 COPY . .
 ENV NODE_ENV=production
 EXPOSE 3000
-CMD ["node","backend/server_v3.js"]
+CMD ["node","backend/server_v3_gpt.js"]
