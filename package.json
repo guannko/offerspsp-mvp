@@ -1,14 +1,21 @@
 {
-  "name": "offerspsp-mvp-monorepo",
+  "name": "offerspsp-mvp",
   "version": "1.0.0",
-  "description": "OffersPSP MVP - B2B платформа для PSP партнёров",
+  "description": "OffersPSP MVP - B2B Platform for PSP Partners",
   "scripts": {
-    "build": "cd frontend && npm install && npm run build",
-    "start": "cd frontend && npm start",
-    "dev": "cd frontend && npm run dev",
-    "backend": "cd backend && npm start",
-    "bot": "cd telegram-bot && node bot.js",
-    "install-all": "cd frontend && npm install && cd ../backend && npm install && cd ../telegram-bot && npm install"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "eslint-config-next": "14.0.4"
   },
   "keywords": ["casino", "psp", "b2b", "payments"],
   "author": "Jean Claude + Boris",
